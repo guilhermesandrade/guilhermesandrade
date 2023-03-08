@@ -28,9 +28,9 @@
 <br/>
 <a href="https://github.com/guilhermesandrade">
 
-<img  height="122cm" width="300cm" src="https://github-readme-stats.vercel.app/api?username=guilhermesandrade&hide=prs,issues&show_icons=true&theme=tokyonight&count_private=true">
+<img  height="122cm" width="300cm" src="https://github-readme-stats.vercel.app/api?username=guilhermesandrade&hide=prs,issues&show_icons=true&theme=tokyonight&count_private=true"><br/>
 
-<img height="178cm" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=tokyonight">
+<img height="178cm" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=tokyonight"><br/>
 
 <img height="150cm" width="300cm" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesandrade&theme=tokyonight">
 </a>
