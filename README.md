@@ -24,15 +24,11 @@
 <div>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+<br />
 
-<br/>
 <a href="https://github.com/guilhermesandrade">
 
-<img  height="122cm" width="300cm" src="https://github-readme-stats.vercel.app/api?username=guilhermesandrade&hide=prs,issues&show_icons=true&theme=tokyonight&count_private=true"><br/>
-
-<img height="178cm" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=tokyonight"><br/>
-
-<img height="150cm" width="300cm" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesandrade&theme=tokyonight">
+<img  width="300cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesandrade&theme=tokyonight"> <img height="118cm" src="https://github-readme-stats.vercel.app/api?username=guilhermesandrade&hide=prs,issues&show_icons=true&theme=tokyonight&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=tokyonight">
 </a>
 </div>
 
