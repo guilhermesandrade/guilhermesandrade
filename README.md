@@ -28,7 +28,7 @@
 
 <a href="https://github.com/guilhermesandrade">
 
-<img  width="300cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesandrade&theme=merko"><img height="118cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=merko">
+<img  width="300cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesandrade&theme=merko"> <img height="119cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=merko">
 </a>
 </div>
 
