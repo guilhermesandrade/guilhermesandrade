@@ -7,7 +7,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="18" height="18" />⠀Usando no dia a dia:
 <br />
 
-⠀⠀⠀⠀<img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />⠀⠀
+⠀⠀⠀⠀<img align="center"  height="40" width="40" src="./assets/" />⠀⠀
 <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />⠀⠀
 <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </div>
@@ -28,7 +28,7 @@
 
 <a href="https://github.com/guilhermesandrade">
 
-<img  width="300cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesandrade&theme=merko"> <img height="118cm" src="https://github-readme-stats.vercel.app/api?username=guilhermesandrade&hide=prs,issues&show_icons=true&theme=merko&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=merko">
+<img  width="300cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesandrade&theme=merko"><img height="118cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=merko">
 </a>
 </div>
 
