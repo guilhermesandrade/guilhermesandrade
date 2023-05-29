@@ -21,8 +21,6 @@
 
 ---
 
-<br/>
-
 <div>
 
 <a href="https://github.com/guilhermesandrade">
@@ -30,7 +28,6 @@
  <img height="154cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=merko">
 </a>
 </div>
-<br/>
 
 ---
 
