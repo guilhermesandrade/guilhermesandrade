@@ -21,15 +21,16 @@
 
 ---
 
-<div>
+<br/>
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-<br />
+<div>
 
 <a href="https://github.com/guilhermesandrade">
 
-<img  width="300cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesandrade&theme=merko"> <img height="119cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=merko">
+ <img height="154cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=compact&theme=merko">
 </a>
 </div>
+<br/>
 
 ---
+
