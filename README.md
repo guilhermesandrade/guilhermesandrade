@@ -4,11 +4,11 @@
 
  - Cursando faculdade de Sistemas de Informação ( Uni-Facef )
  - Estudando Java e JavaScript
- - Focado em Java
+ - Foco em Java
 
 <br />
 
-⠀⠀<img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />⠀--⠀
+⠀⠀<img align="center"  height="35" width="40" src="./assets/java.svg" />⠀--⠀
 <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />⠀--⠀
 <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />⠀--⠀
 <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -27,7 +27,7 @@
 <div>
 
 <a href="https://github.com/guilhermesandrade">
- <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=donut&hide_border=true&title_color=333&text_color=333&theme=transparent">
+ <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=donut&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&theme=transparent">
 </a>
 </div>
 
