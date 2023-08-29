@@ -8,18 +8,15 @@
 
 <br />
 
-⠀⠀<img align="center"  height="35" width="40" src="./assets/java.svg" />⠀--⠀
-<img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />⠀--⠀
-<img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />⠀--⠀
-<img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+⠀⠀<img align="center" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" /> <img align="center"  src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white" /> <img align="center"  src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center"  src="https://img.shields.io/badge/CSS-0D1117?&style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 <br />
 
 <div>   
-<a href = "mailto:guilhermesantosandrade01@gmail.com"><img src="./assets/Gmail.svg" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilhermesandradee/" target="_blank"><img src="./assets/linkedin.svg" target="_blank"></a> 
-<a href="https://guilhermesandrade.github.io/Portfolio/" target="_blank" ><img src="./assets/portfolio.svg" /></a>
+<a href = "mailto:guilhermesantosandrade01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilhermesandradee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://guilhermesandrade.github.io/Portfolio/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-333?style=for-the-badge&logo=deezer&logoColor=white" /></a>
  </div>
 
 ---
