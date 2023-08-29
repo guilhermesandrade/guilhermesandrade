@@ -24,7 +24,7 @@
  <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=donut&hide_border=true&theme=tokyonight&bg_color=00000000">
 </a>
 
-<br />
+<br /><br />
 
 ⠀⠀<img align="center"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />⠀-⠀
 <img align="center" height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />⠀-⠀
