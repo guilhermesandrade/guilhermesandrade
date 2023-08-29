@@ -27,9 +27,7 @@
 <div>
 
 <a href="https://github.com/guilhermesandrade">
-
- <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=donut&hide_border=true&title_color=fff&text_color=fff&theme=transparent#gh-dark-mode-only">
- <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=donut&hide_border=true&title_color=333&text_color=333&theme=transparent#gh-light-mode-only">
+ <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesandrade&layout=donut&hide_border=true&title_color=333&text_color=333&theme=transparent">
 </a>
 </div>
 
