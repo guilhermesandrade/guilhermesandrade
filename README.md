@@ -28,6 +28,7 @@ Entre em contato comigo aqui abaixo!
 
 <br /><br />
 <img align="center"  height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> - 
+<img align="center"  height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> - 
 <img align="center"  height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> - 
 <img align="center"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />⠀-⠀
 <img align="center" height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />⠀-⠀
