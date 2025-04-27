@@ -1,15 +1,15 @@
 <div>
 
-## Olá! Eu sou Guilherme Andrade 
+## Olá! Seja Bem Vindo(a) ao meu perfil
 
- - Cursando faculdade de Sistemas de Informação ( Uni-Facef )
- - Estudando Java e JavaScript
- - Foco em Java
+Sou graduando em Sistemas de Informação na Uni-Facef e aqui compartilho projetos relacionados a desenvolvimento de software, principalmente para estudo e pratica de novos conhecimentos.
 
+Aqui você encontrará soluções criadas em diferentes linguagens e frameworks, como React, Flutter, javascript e outros, com foco em boas práticas de desenvolvimento e aprendizado contínuo. Fique à vontade para explorar meus projetos, contribuir e trocar ideias!
+
+Entre em contato comigo aqui abaixo!
 <br />
-
 <div>   
-⠀⠀<a href = "mailto:guilhermesantosandrade01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:guilhermesantosandrade01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>⠀
 <a href="https://www.linkedin.com/in/guilhermesandradee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
  <a href="https://guilhermesandrade.github.io/Portfolio/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-DCDCDC?style=for-the-badge&logo=deezer&logoColor=black" /></a>
@@ -27,11 +27,16 @@
 </a>
 
 <br /><br />
-
-⠀⠀<img align="center"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />⠀-⠀
+<img align="center"  height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> - 
+<img align="center"  height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> - 
+<img align="center"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />⠀-⠀
 <img align="center" height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />⠀-⠀
+<img align="center" height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />⠀-⠀
 <img align="center" height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />⠀-⠀
-<img align="center"  height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center"  height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> - 
+<img align="center"  height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
+          
 
 </div>
 
