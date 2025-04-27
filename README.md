@@ -11,8 +11,10 @@
 <div>   
 ⠀⠀<a href = "mailto:guilhermesantosandrade01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilhermesandradee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://guilhermesandrade.github.io/Portfolio/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-DCDCDC?style=for-the-badge&logo=deezer&logoColor=black" /></a>
+<!--
+ <a href="https://guilhermesandrade.github.io/Portfolio/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-DCDCDC?style=for-the-badge&logo=deezer&logoColor=black" /></a>
  </div>
+ -->
 
 ---
 
